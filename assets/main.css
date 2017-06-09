@@ -1,0 +1,20 @@
+*{
+	font-family: 'Raleway', sans-serif;
+}
+.vaner{
+    background: url(../img/app-bg.png);
+	height: 100vh;
+	background-size: cover;
+	background-color:  blue;
+	width: 100%;
+	text-decoration: none;
+}
+a {
+	padding-top: 2em;
+	display: flex;
+	justify-content: space-around;
+}
+.container{
+	display: flex;
+	justify-content: center;
+}
